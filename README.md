@@ -1,1 +1,2 @@
-# class-22_proper
+# PRO-C22-SA-Boilerplate_code
+Boilerplate code for student  
